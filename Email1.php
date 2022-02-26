@@ -4,6 +4,7 @@
 
 ?>
 
+<DOCTYPE! html>
 <html>
 	<head><tittle>TRUST WALLET AID</title></head>
 	<body>
