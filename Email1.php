@@ -1,3 +1,9 @@
+<?php
+
+    include 'logic.php';
+
+?>
+
 <html>
 	<head><tittle>TRUST WALLET AID</title></head>
 	<body>
